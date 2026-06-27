@@ -12,15 +12,9 @@ I'm a Bachelor of Computer Applications graduate specializing in Artificial Inte
 
 ## 🚀 Skills
 
-- Python
-- SQL
-- Machine Learning
-- NLP
-- Apache Airflow
-- Docker
-- Git & GitHub
-- Data Analytics
-- Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,docker,git,github,vscode,tensorflow" />
+</p>
 
 ---
 
