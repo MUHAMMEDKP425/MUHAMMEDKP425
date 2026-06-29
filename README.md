@@ -65,11 +65,13 @@ Created an interactive dashboard for visualizing and analyzing water quality dat
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-![Muhammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUHAMMEDKP425&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMEDKP425&layout=compact&theme=tokyonight)
+- 🤖 Building AI & Machine Learning Applications
+- 🐍 Python Development
+- 📊 Data Analytics & Visualization
+- ⚙️ Automation & ETL Pipelines
+- 🌐 Streamlit Web Applications
 
 ---
 
