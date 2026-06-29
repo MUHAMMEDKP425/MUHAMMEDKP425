@@ -23,7 +23,7 @@ I'm a Bachelor of Computer Applications graduate specializing in **Artificial In
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,docker,vscode,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,git,github,docker,vscode,linux" />
 </p>
 
 **Languages & Tools**
@@ -67,9 +67,9 @@ Created an interactive dashboard for visualizing and analyzing water quality dat
 
 ## 📊 GitHub Stats
 
-![Muhammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUHAMMEDKP425\&show_icons=true\&theme=tokyonight)
+![Muhammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUHAMMEDKP425&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMEDKP425\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMEDKP425&layout=compact&theme=tokyonight)
 
 ---
 
