@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammed KP
 
-## AI/ML Engineer | Python Developer | Data Analyst
+## AI/ML Engineer | Python Developer | Data Engineer
 
 I'm a Bachelor of Computer Applications graduate specializing in **Artificial Intelligence, Machine Learning, and Robotics**. I enjoy building intelligent applications, automation solutions, ETL pipelines, and data-driven software using Python and modern AI technologies.
 
